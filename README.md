@@ -5,16 +5,16 @@ reg no:212225240103
 
 To evaluate the usability of the Swiggy mobile application using Nielsen’s 10 Usability Heuristics, identify usability problems, and suggest design improvements to enhance the user experience.
 
-# Algorithm
-1.Select the Swiggy mobile application for evaluation.
-2.Study the main screens and user interactions.
-3.Apply Nielsen’s 10 usability heuristics.
-4.Identify usability problems in the existing interface.
-5.Suggest suitable design improvements.
-6.Compare the Before and After designs.
-7.Evaluate how the improvements enhance usability and accessibility.
-8.Document the final observations and results.
-9.Output
+## Algorithm
+# 1.Select the Swiggy mobile application for evaluation.
+# 2.Study the main screens and user interactions.
+# 3.Apply Nielsen’s 10 usability heuristics.
+# 4.Identify usability problems in the existing interface.
+# 5.Suggest suitable design improvements.
+# 6.Compare the Before and After designs.
+# 7.Evaluate how the improvements enhance usability and accessibility.
+# 8.Document the final observations and results.
+# 9.Output
 
 ## Output
 
